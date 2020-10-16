@@ -7,6 +7,21 @@ configuration:
 *I have used windows 10
 *ide used spring tool suit
 
+
+how to implement :
+1 download the zip file
+2 extract the zip file
+3 open it inside the ide 
+4 build the project 
+5 go to the controller package 
+open CarParkingController.java
+run the class 
+
+
+POINT TO NOTE------>
+please give the txt file adress inside the input of the project
+
+
 design implementation:
 
 * created three packages 
