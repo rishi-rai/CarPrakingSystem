@@ -17,6 +17,15 @@ how to implement :
 open CarParkingController.java
 run the class 
 
+IF NOT ABLE TO BUILD THE PROJECT SIMPLE SOLUTIO ARE:
+
+1: import file in your ides
+2: create another project in ide
+3: copy the src folder from imported file into newly created project 
+4:go to the controller package 
+5: go to the class and run the class
+
+
 
 POINT TO NOTE------>
 please give the txt file adress inside the input of the project
